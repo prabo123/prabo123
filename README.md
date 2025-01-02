@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@spgamage44](https://medium.com/@spgamage44)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **React js**
 
 - ⚡ Fun fact **call me as Prabo**
 
