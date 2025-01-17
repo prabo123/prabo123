@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabo123" alt="prabo123" /></a> </p>
 
-- 🌱 I’m currently learning **AI,Cloud Computing,Python**
+- 🌱 I’m currently learning **AI,Cloud Computing**
 
 - 📝 I regularly write articles on [https://medium.com/@spgamage44](https://medium.com/@spgamage44)
 
