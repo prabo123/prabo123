@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React js**
 
-- ⚡ Fun fact **call me as Prabo**
+- ⚡ Fun fact **call me as PABA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
